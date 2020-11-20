@@ -8,5 +8,5 @@
 </p>
 <hr>
 
-Olá meu nome é **Miguel**, mais conhecido fora do GitHub como **MiguelEX3** ou **Miguel exe**, sou um desenvolvedor de software em Node.js, HTML/EJS, CSS e JavaScript.
+Olá meu nome é **Miguel**, mais conhecido fora do GitHub como **MiguelEX3** ou **Miguel exe**, sou um desenvolvedor de software em Node.js, HTML/EJS e JavaScript.
 <br>
